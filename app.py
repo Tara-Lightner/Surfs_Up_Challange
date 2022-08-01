@@ -33,7 +33,7 @@ Station = Base.classes.station
 
 # Create a session link from Python to database
 session = Session(engine)
-results = session.query
+# results = session.query
 
 # Define our app for our Flask application
 # Create a New Flask App Instance
